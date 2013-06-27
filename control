@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.novip
+Name: NoVIP
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the VIP mailbox from Mail.app
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
